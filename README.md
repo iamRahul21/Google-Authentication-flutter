@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # signinchatgpt
 
 A new Flutter project.
@@ -17,4 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # Google-Authentication-flutter
->>>>>>> 92f9c4a970ec1a445eaa505c338f1272a3b6be0c
