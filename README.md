@@ -6,6 +6,7 @@ A new Flutter project.
 - Google Firebase account
 - Android Studio
 
+## Installation
 
 
 ### Set up Firebase
