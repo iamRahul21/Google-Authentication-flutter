@@ -1,6 +1,17 @@
 # Google-Authentication-flutter
-
 A new Flutter project.
+
+## Prerequisites
+- Flutter SDK
+- Google Firebase account
+- Android Studio
+
+
+
+### Set up Firebase
+- Create a new Firebase project on the [Firebase Console](https://console.firebase.google.com/)
+- Follow the instructions to add your Android and iOS apps to the Firebase project.
+- Download the google-services.json file for Android and GoogleService-Info.plist file for iOS and place these files in the appropriate directories
 
 ## Getting Started
 
