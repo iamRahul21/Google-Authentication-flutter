@@ -1,20 +1,25 @@
-<<<<<<< HEAD
-# signinchatgpt
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Google-Authentication-flutter
->>>>>>> 92f9c4a970ec1a445eaa505c338f1272a3b6be0c
+
+## Prerequisites
+- Flutter SDK
+- Google Firebase account
+- Android Studio
+
+## Installation
+1. Clone the repository:
+```terminal
+git clone https://github.com/iamRahul21/Google-Authentication-flutter.git
+````
+2. Navigate to the project directory:
+```terminal
+cd Google-Authentication-flutter
+````
+3. Install dependencies:
+```terminal
+flutter pub get
+````
+
+### Set up Firebase
+- Create a new Firebase project on the [Firebase Console](https://console.firebase.google.com/)
+- Follow the instructions to add your Android and iOS apps to the Firebase project.
+- Download the *google-services.json* file for Android and *GoogleService-Info.plist* file for iOS and place these files in the appropriate directories
