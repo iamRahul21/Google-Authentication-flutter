@@ -63,22 +63,6 @@ class _LoginPageState extends State<LoginPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // appBar: AppBar(
-      //   title: Row(
-      //     mainAxisAlignment: MainAxisAlignment.start,
-      //     children: [
-      //       Image.asset(
-      //         'assets/demo_logo.png',
-      //         fit: BoxFit.contain,
-      //         height: 32,
-      //       ),
-      //       Container(
-      //         padding: const EdgeInsets.all(8.0),
-      //         child: const Text('Google Authentication'),
-      //       )
-      //     ],
-      //   ),
-      // ),
       body: Container(
         decoration: const BoxDecoration(
           image: DecorationImage(
